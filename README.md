@@ -3,7 +3,7 @@
 ## Introduction
 In this tutorial, we will learn how we can quickly set up the infrastructure to run an Apache Spark applications on Amazon Athena on AWS Cloud. The primary goal of this tutorial is not to delve into the intricacies of Spark, Python, or SQL, but rather to guide you through the process of creating an environment that seamlessly integrates Apache Spark with Amazon Athena for efficient data exploration in an Amazon S3 data lake.
 
-This tutorial is derived from [this blog](https://www.linkedin.com/pulse/draft/preview/7138492291370913793/) post. Follow the blog to complete the tutorial.
+This tutorial is derived from [this blog](https://medium.com/@boutorh.abderrahim/explore-your-data-lake-using-amazon-athena-for-apache-spark-e0dfa05f01c6) post. Follow the blog to complete the tutorial.
 
 ## Prerequisites
 For this tutorial, you need the following prerequisites:
